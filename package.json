@@ -1,0 +1,14 @@
+{
+  "name": "node-js-callback-hell",
+  "version": "1.0.0",
+  "description": "node-js-callback-hell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anh Le Hoang",
+  "license": "MIT",
+  "dependencies": {
+    "wait.for-es6": "^0.1.0"
+  }
+}
